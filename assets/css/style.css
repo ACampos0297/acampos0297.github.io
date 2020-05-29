@@ -19,7 +19,8 @@ body {
 body::before {
   content: "";
   position: fixed;
-  background: #040404 url("../img/bg.jpg") top right no-repeat; */
+  background: #040404 url("../img/Backgrounds/bg.jpg") top right     no-repeat;
+  /* background-size: 100%; */
   background-size: cover;
   left: 0;
   right: 0;
@@ -87,7 +88,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #header h2 span {
   color: #fff;
-  border-bottom: 2px solid #18d26e;
+  border-bottom: 2px solid #189ec8;
   padding-bottom: 6px;
 }
 
@@ -380,7 +381,7 @@ section .container {
 .about-me .content h3 {
   font-weight: 700;
   font-size: 26px;
-  color: #18d26e;
+  color: #189ec8;
 }
 
 .about-me .content ul {
