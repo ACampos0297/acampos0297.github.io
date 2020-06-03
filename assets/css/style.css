@@ -36,11 +36,11 @@ body::before {
 }
 
 a {
-  color: #ff0000;
+  color: #bf0000;
 }
 
 a:hover {
-  color: #ff0000;
+  color: #bf0000;
   text-decoration: none;
 }
 
@@ -88,7 +88,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #header h2 span {
   color: #fff;
-  border-bottom: 3px solid #ff0000;
+  border-bottom: 3px solid #bf0000;
   padding-bottom: 6px;
 }
 
@@ -186,7 +186,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu li:hover > a {
-  color: #ff0000;
+  color: #bf0000;
   text-decoration: none;
 }
 
@@ -249,7 +249,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .mobile-nav a:hover, .mobile-nav .active > a, .mobile-nav li:hover > a {
-  color: #ff0000;
+  color: #bf0000;
   text-decoration: none;
 }
 
@@ -368,7 +368,7 @@ section .container {
   width: 120px;
   height: 1px;
   display: inline-block;
-  background: #ff0000;
+  background: #bf0000;
   margin: 4px 10px;
 }
 
@@ -388,7 +388,7 @@ section .container {
 .about-me .content h3 {
   font-weight: 700;
   font-size: 26px;
-  color: #ff0000;
+  color: #bf0000;
 }
 
 .about-me a{
@@ -406,7 +406,7 @@ section .container {
 .about-me .content ul i {
   font-size: 20px;
   padding-right: 2px;
-  color: #ff0000;
+  color: #bf0000;
 }
 
 .about-me .content p:last-child {
@@ -436,7 +436,7 @@ section .container {
   font-size: 24px;
   background: rgba(255, 255, 255, 0.1);
   padding: 12px;
-  color: #ff0000;
+  color: #bf0000;
   border-radius: 50px;
 }
 
@@ -593,7 +593,7 @@ section .container {
 }
 
 .testimonials .owl-dot.active {
-  background-color: #ff0000 !important;
+  background-color: #bf0000 !important;
 }
 
 @media (max-width: 767px) {
@@ -626,7 +626,7 @@ section .container {
   font-weight: 600;
   text-transform: uppercase;
   font-family: "Poppins", sans-serif;
-  color: #ff0000;
+  color: #bf0000;
   margin-bottom: 10px;
 }
 
@@ -659,8 +659,8 @@ section .container {
   border-radius: 50px;
   left: -9px;
   top: 0;
-  background: #ff0000;
-  border: 2px solid #ff0000;
+  background: #bf0000;
+  border: 2px solid #bf0000;
 }
 
 /*--------------------------------------------------------------
@@ -677,7 +677,7 @@ section .container {
   margin: 0 auto;
   width: 64px;
   height: 64px;
-  background: #ff0000;
+  background: #bf0000;
   border-radius: 5px;
   transition: all .3s ease-out 0s;
   display: flex;
@@ -722,8 +722,8 @@ section .container {
 }
 
 .services .icon-box:hover {
-  background: #ff0000;
-  border-color: #ff0000;
+  background: #bf0000;
+  border-color: #bf0000;
 }
 
 .services .icon-box:hover .icon {
@@ -731,11 +731,11 @@ section .container {
 }
 
 .services .icon-box:hover .icon i {
-  color: #ff0000;
+  color: #bf0000;
 }
 
 .services .icon-box:hover .icon::before {
-  background: #ff0000;
+  background: #bf0000;
 }
 
 .services .icon-box:hover h4 a, .services .icon-box:hover p {
@@ -774,7 +774,7 @@ section .container {
 }
 
 .portfolio #portfolio-flters li:hover, .portfolio #portfolio-flters li.filter-active {
-  background: #ff0000;
+  background: #bf0000;
 }
 
 .portfolio #portfolio-flters li:last-child {
@@ -874,7 +874,7 @@ section .container {
 }
 
 .portfolio .portfolio-wrap .portfolio-links a:hover {
-  color: #ff0000;
+  color: #bf0000;
 }
 
 .portfolio .portfolio-wrap:hover::before {
@@ -911,7 +911,7 @@ section .container {
 
 .contact .info-box i.bx {
   font-size: 24px;
-  color: #ff0000;
+  color: #bf0000;
   border-radius: 50%;
   padding: 14px;
   float: left;
@@ -948,7 +948,7 @@ section .container {
 }
 
 .contact .info-box .social-links a:hover {
-  color: #ff0000;
+  color: #bf0000;
 }
 
 .contact .php-email-form {
@@ -976,7 +976,7 @@ section .container {
 .contact .php-email-form .sent-message {
   display: none;
   background: rgba(255, 255, 255, 0.08);
-  background: #ff0000;
+  background: #bf0000;
   text-align: center;
   padding: 15px;
   font-weight: 600;
@@ -996,7 +996,7 @@ section .container {
   width: 24px;
   height: 24px;
   margin: 0 10px -6px 0;
-  border: 3px solid #ff0000;
+  border: 3px solid #bf0000;
   border-top-color: #eee;
   -webkit-animation: animate-loading 1s linear infinite;
   animation: animate-loading 1s linear infinite;
@@ -1050,7 +1050,7 @@ section .container {
 }
 
 .contact .php-email-form button[type="submit"] {
-  background: #ff0000;
+  background: #bf0000;
   border: 0;
   padding: 10px 30px;
   color: #fff;
@@ -1059,7 +1059,7 @@ section .container {
 }
 
 .contact .php-email-form button[type="submit"]:hover {
-  background: #ff0000;
+  background: #bf0000;
 }
 
 @-webkit-keyframes animate-loading {
@@ -1120,7 +1120,7 @@ section .container {
 }
 
 .portfolio-details .portfolio-details-carousel .owl-dot.active {
-  background-color: #ff0000 !important;
+  background-color: #bf0000 !important;
 }
 
 .portfolio-details .portfolio-info {
@@ -1178,7 +1178,7 @@ section .container {
 }
 
 .credits a {
-  color: #ff0000;
+  color: #bf0000;
   transition: 0.3s;
 }
 
