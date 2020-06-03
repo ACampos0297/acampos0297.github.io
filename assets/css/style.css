@@ -639,6 +639,16 @@ section .container {
   margin-bottom: 10px;
 }
 
+.resume .resume-item h6{
+  line-height: 18px;
+  font-size: 18px;
+  font-weight: 600;
+  text-transform: uppercase;
+  font-family: "Poppins", sans-serif;
+  color: #ffffff;
+  margin-bottom: 10px;
+}
+
 .resume .resume-item ul {
   padding-left: 20px;
 }
